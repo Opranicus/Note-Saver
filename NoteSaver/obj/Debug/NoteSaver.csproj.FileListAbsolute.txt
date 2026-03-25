@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\NoteSaver\bin\Debug\NoteSaver.exe.config
+C:\Users\User\source\repos\NoteSaver\bin\Debug\NoteSaver.exe
+C:\Users\User\source\repos\NoteSaver\bin\Debug\NoteSaver.pdb
+C:\Users\User\source\repos\NoteSaver\obj\Debug\NoteSaver.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\NoteSaver\obj\Debug\NoteSaver.frmMain.resources
+C:\Users\User\source\repos\NoteSaver\obj\Debug\NoteSaver.Properties.Resources.resources
+C:\Users\User\source\repos\NoteSaver\obj\Debug\NoteSaver.csproj.GenerateResource.cache
+C:\Users\User\source\repos\NoteSaver\obj\Debug\NoteSaver.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NoteSaver\obj\Debug\NoteSaver.exe
+C:\Users\User\source\repos\NoteSaver\obj\Debug\NoteSaver.pdb
+C:\Users\User\source\repos\NoteSaver\obj\Debug\NoteSaver.Forms.frmAddNote.resources
+C:\Users\User\source\repos\NoteSaver\obj\Debug\NoteSaver.Forms.frmView.resources
+C:\Users\User\source\repos\NoteSaver\obj\Debug\NoteSaver.Forms.frmEditNotes.resources
