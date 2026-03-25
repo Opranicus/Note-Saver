@@ -11,5 +11,8 @@ When adding a note it is saved to 2 separate files, one is the Subject txt file 
 
 ## Video
 
-https://github.com/user-attachments/assets/cd3bce46-86e6-4210-bf09-135802f6ea06
+https://github.com/user-attachments/assets/fe1411c2-fc31-488d-8eaa-b2c24901d917
+
+
+
 
