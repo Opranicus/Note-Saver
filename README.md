@@ -5,7 +5,7 @@ A windows form note saver that I made to pass the time.<br><br><br>
 
 ## How it Works
 
-Can add a note, update, and remove a note.
+Can add, update, and remove a note.
 When adding a note it is saved to 2 separate files, one is the Subject txt file and the second is the Description file.<br><br><br>
 
 
